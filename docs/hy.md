@@ -24,7 +24,7 @@ gcc mdaemon.c -o mdaemon
 ```
 cp mdaemon /usr/sbin/mdaemon
 ```
-Վայելեք *_*
+Վայելեք ^_^
 ```
 mdaemon --help
 ```
