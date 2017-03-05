@@ -24,7 +24,7 @@ Copy to /usr/sbin/
 ```
 cp mdaemon /usr/sbin/mdaemon
 ```
-Enjoy *_*
+Enjoy ^_^
 ```
 mdaemon --help
 ```
